@@ -16,7 +16,7 @@ class _SignupusingphoneState extends State<Signupusingphone> {
   TextEditingController phone = TextEditingController();
   TextEditingController otp = TextEditingController();
   int val=0;
-  String varificationid="";
+  String varificationid="ii";
 
   @override
   Widget build(BuildContext context) {
